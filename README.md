@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20721
-Fork on GitHub
-6370
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akif2540&label=Profile%20views&color=0e75b6&style=flat" alt="akif2540" /> </p>
